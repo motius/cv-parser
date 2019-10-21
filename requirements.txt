@@ -14,7 +14,7 @@ idna==2.6
 incremental==17.5.0
 lxml==4.1.0
 memory-profiler==0.51.0
-nltk==3.2.5
+nltk==3.4.5
 nose==1.3.7
 numpy==1.13.3
 parsel==1.2.0
