@@ -18,7 +18,7 @@ nltk==3.2.5
 nose==1.3.7
 numpy==1.13.3
 parsel==1.2.0
-psutil==5.4.3
+psutil==5.6.6
 pyasn1==0.3.7
 pyasn1-modules==0.1.5
 pycparser==2.18
