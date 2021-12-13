@@ -12,7 +12,7 @@ datefinder==0.6.1
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
-lxml==4.1.0
+lxml==4.6.5
 memory-profiler==0.51.0
 nltk==3.2.5
 nose==1.3.7
