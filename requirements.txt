@@ -29,7 +29,7 @@ pytz==2017.3
 queuelib==1.4.2
 regex==2016.1.10
 requests==2.18.4
-Scrapy==1.4.0
+Scrapy==2.6.1
 selenium==3.6.0
 service-identity==17.0.0
 six==1.11.0
